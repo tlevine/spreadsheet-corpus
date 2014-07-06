@@ -1,0 +1,16 @@
+I find file-based spreadsheets and web-based spreadsheets.
+
+For file-based spreadsheets, I look for fully qualified
+URLs, relative URLs, and filenames in query strings.
+I look for filenames that end in any of the following extensions.
+
+* gnumeric
+* xlsx
+* xls
+* ods
+* csv
+
+The following web-based spreadsheets are supported.
+
+* Google Spreadsheets
+* Microsoft Excel Online
